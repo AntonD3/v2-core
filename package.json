@@ -22,7 +22,7 @@
     "node": ">=10"
   },
   "devDependencies": {
-    "@matterlabs/hardhat-zksync-solc": "^0.3.16",
+    "@matterlabs/hardhat-zksync-solc": "^0.3.17",
     "@types/chai": "^4.2.6",
     "@types/mocha": "^5.2.7",
     "chai": "^4.2.0",
