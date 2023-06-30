@@ -23,7 +23,7 @@ export default {
         version: '0.5.16',
     },
     zksolc: {
-        version: '1.3.12',
+        version: '1.3.13',
         compilerSource: 'binary',
         settings: {},
     },
