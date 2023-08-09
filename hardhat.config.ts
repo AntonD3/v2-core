@@ -3,8 +3,8 @@ import '@matterlabs/hardhat-zksync-solc'
 export default {
   networks: {
     zkSyncLocalhost: {
-      url: 'http://localhost:3050',
-      ethNetwork: 'http://localhost:8545',
+      url: 'http://localhost:8011',
+      ethNetwork: '',
       zksync: true,
     },
     zkSyncTestnet: {
