@@ -5,26 +5,26 @@ export default {
     zkSyncLocalhost: {
       url: 'http://localhost:8011',
       ethNetwork: '',
-      zksync: true,
+      zksync: true
     },
     zkSyncTestnet: {
       url: 'https://testnet.era.zksync.dev',
       ethNetwork: `https://goerli.infura.io/v3/${process.env.INFURA_API_KEY}`,
-      zksync: true,
+      zksync: true
     },
     zkSyncMainnet: {
       url: 'https://mainnet.era.zksync.io',
       ethNetwork: `https://mainnet.infura.io/v3/${process.env.INFURA_API_KEY}`,
-      zksync: true,
-    },
+      zksync: true
+    }
   },
   defaultNetwork: 'zkSyncLocalhost',
   solidity: {
-    version: '0.5.16',
+    version: '0.5.16'
   },
   zksolc: {
     version: '1.3.13',
     compilerSource: 'binary',
-    settings: {},
-  },
+    settings: {}
+  }
 }
