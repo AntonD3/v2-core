@@ -1,8 +1,7 @@
 {
-  "name": "@uniswap-zksync/era-uniswap-v2-core",
+  "name": "era-uniswap-v2-core",
   "description": "🎛 Core contracts for the UniswapV2 protocol forked for zkSync Era",
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
   "repository": {
     "type": "git",
     "url": "https://github.com/uniswap-zksync/era-uniswap-v2-core"
