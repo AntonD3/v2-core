@@ -19,7 +19,7 @@
     "artifacts-zk"
   ],
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "devDependencies": {
     "@matterlabs/hardhat-zksync-solc": "^0.3.17",
