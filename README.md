@@ -6,7 +6,7 @@ In-depth documentation on Uniswap V2 is available at [uniswap.org](https://unisw
 
 # Local Development
 
-The following assumes the use of `node@>=10`.
+The following assumes the use of `node@>=14`.
 
 ## Install Dependencies
 
